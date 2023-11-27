@@ -15,14 +15,14 @@ Welcome to the Customer Service Chatbot repository! This simple chatbot is desig
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/customer-service-chatbot.git
-    cd customer-service-chatbot
+    git clone https://github.com/saivarshinireddy/NeuroNexus.git
+    cd Task1
     ```
 
 2. Run the chatbot:
 
     ```bash
-    python customer_service_bot.py
+    python chatbot.py
     ```
 
 3. Follow the on-screen instructions to interact with the chatbot.
